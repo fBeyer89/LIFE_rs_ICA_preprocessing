@@ -8,7 +8,7 @@ Structural preprocessing (run_structural.py using structural.py) performs
 - freesurfer segmentation if not yet done
 - brain extraction based on freesurfer brain segmentation
 - registration of the skull-stripped brain to MNI (2mm isotropic) space
-- 
+
 Functional preprocessing (run_lemon_resting.py using lemon_resting.py) performs
 
 - deletion of first 5 volumes

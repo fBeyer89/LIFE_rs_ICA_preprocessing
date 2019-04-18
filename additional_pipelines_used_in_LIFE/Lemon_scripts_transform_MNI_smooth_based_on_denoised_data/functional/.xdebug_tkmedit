@@ -1,0 +1,10 @@
+tkmedit started: Mon Jun 15 16:21:37 2015
+
+	/afs/cbs.mpg.de/software/freesurfer/5.3.0/ubuntu-precise-amd64/tktools/tkmedit.bin LI01453212 brainmask.mgz -aux T1.mgz 
+
+$Id: tkmedit.c,v 1.343 2011/03/01 01:41:22 nicks Exp $ $Name: stable5 $
+Set user home dir to /home/raid1/fbeyer/Documents/Scripts/Lemon_Scripts_modified/functional
+Set subject home dir to /scr/kennedy2/data_fbeyer/freesurfer/corrected//LI01453212
+Using interface file /afs/cbs.mpg.de/software/freesurfer/5.3.0/ubuntu-precise-amd64/tktools/tkmedit.tcl
+Tcl: Successfully parsed tkmedit.tcl
+Tcl: Successfully parsed tkm_functional.tcl

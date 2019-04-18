@@ -1,0 +1,4 @@
+dprintf() had a fatal error in pid 12571
+Can't seek to end of DebugFP file
+errno: 13 (Permission denied)
+euid: 12367, ruid: 12367
